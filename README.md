@@ -5,7 +5,7 @@ This project implements an image and video object detection classifier using pre
 ## How to use?
 1. Clone the repository
 
-  ` git clone https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV.git`
+  ` git clone https://github.com/qusaionali/Yolov3-Object-Detection.git`
   
 2. Move to the directory
 
