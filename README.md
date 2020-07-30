@@ -31,19 +31,19 @@ For more details:
 
 ## Inference on images
 
-![Image](images/4.png)
-![Image](images/2.png)
-![Image](images/1.png)
-![Image](images/5.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/4.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/2.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/1.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/5.png)
 
 
 ## Inference on Video
 
-![gif](images/demo.gif)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/demo.gif)
 
 ## Inference in Real-time
 
-![Sorry for the bad image quality](images/3.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/3.png)
 
 
 References:
