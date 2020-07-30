@@ -43,7 +43,7 @@ For more details:
 
 ## Inference in Real-time
 
-![](YOLOv3-Object-Detection-with-OpenCV-master/images/3.png)
+![](YOLOv3-Object-Detection-with-OpenCV-master/images/3.jpg)
 
 
 References:
